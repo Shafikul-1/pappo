@@ -1,0 +1,110 @@
+
+
+img{
+    max-width: 100%;
+}
+.cardImage{
+    width: 40%;
+}
+.cardHeading{
+    font-size: 25px;
+    color: blueviolet;
+    border: 3px solid black;
+}
+
+.Card button {
+    background: red;
+    color: white;
+    border-radius: 6px;
+}
+.mazkhan{
+    padding: 0 194px;
+}
+.cardHeading:hover{
+    background: red;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    border-radius: 40px;
+    border: none;
+}
+
+
+.hoverfast{
+    margin-top: 40px;
+    border: 2px solid green;
+    padding: 5px;
+    width: 184px;
+    height: 139px;
+    background-color: aquamarine;
+    margin-top: -159px;
+    margin-left: -2px;
+}
+
+.hoverfast:hover {
+    margin-top: -153px;  
+    width: 190px;
+    margin-left: 0px;
+    text-align: center;
+}
+.seondhover{
+    width: 200px;
+    height: 150px;
+    border: 2px solid red;
+}
+.mazajao{
+    margin-left: 40px;
+}
+
+.sidebar{
+    text-align: justify;
+}
+.btn{
+    
+}
+.ancore{
+    text-decoration: none;
+    color: #ff8125;
+    font-size: 12px;
+    /* font-style: italic; */
+    font-weight: 900;
+    border: 1px solid gray;
+    padding: 2px 6px;
+    background: #efefef;
+    border-radius: 3px;
+}
+.ancore:hover {
+    background: #03f595;
+    color: white;
+}
+.btnAncore{
+
+}
+.ancoreBtn{}
+.cards{
+    border: 2px solid;
+    width: 300px;
+    padding: 13px;
+    border-radius: 5px;
+    text-align: center;
+}
+.cards h4{
+    font-size: 31px;
+    margin: 0;
+}
+.cards p{
+    text-align: justify;
+}
+.cards button{
+    padding: 10px 49px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.cards:hover {
+    background-color: gray;
+}
+
+.cards:hover button{
+    background-color: red;
+}
