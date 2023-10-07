@@ -82,6 +82,7 @@ img{
 }
 .ancoreBtn{}
 .cards{
+    transition: all 5s;
     border: 2px solid;
     width: 300px;
     padding: 13px;
@@ -93,16 +94,22 @@ img{
     margin: 0;
 }
 .cards p{
+    transition: all 5s;
     text-align: justify;
 }
 .cards button{
+    transition: all 5s;
     padding: 10px 49px;
     border-radius: 7px;
     font-weight: 600;
 }
 
 .cards:hover {
+
     background-color: gray;
+}
+.cards:hover p{
+    letter-spacing: 1px;
 }
 
 .cards:hover button{
